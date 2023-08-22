@@ -12,4 +12,4 @@ Remember, each time:  venv/scripts/activate
 Open command palette: Ctrl+Shift+P
 Search for:  User Settings
 Search for: activate
-![Alt text](image-1.png) 
+![Alt text](image-1.png)  
